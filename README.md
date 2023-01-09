@@ -1,2 +1,2 @@
 # UmairCV
-#Live on: https://dcode333.github.io/UmairCV/
+#Live on:  https://dcode333.github.io/Resume/
